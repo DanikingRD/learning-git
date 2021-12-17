@@ -2,8 +2,9 @@ Bpublic static final String MODID = "game";
 
 public void onInitialize() {
 
- 		
- 
+ModObjects.init(); 		
+
+ModBlockEntityTypes.iNI 
 }
 
 A
